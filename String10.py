@@ -1,10 +1,3 @@
 def main(x,y):
-    """
-    Given two integers x, y return the "(x+y)*2={answer}" string.
-    Args:
-        x: int
-        y: int
-    Returns:
-        str: return answer.
-    """
-    return 
+   
+    return "(" + str(x) + "+" + str(y) + ")*2=" + str((x + y) * 2)
